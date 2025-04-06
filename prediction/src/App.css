@@ -1,0 +1,23 @@
+.main{
+  border: 2px solid;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.keys{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+
+}
+.keys input{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+
+}
+.street{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
+.city{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
